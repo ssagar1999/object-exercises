@@ -2,7 +2,7 @@
 
 ## Why are you Learning this?
 
-Since objects are the core concept behind Object Oriented Programming - what you are learning here at NSS - you are going to learn how to use objects to provide value and context to data in your applications. As developers, we write software in order to automate processes that people already perform with real world things. Your code will represent those people and things as objects.
+Since objects are the core concept behind Object Oriented Programming - you are going to learn how to use objects to provide value and context to data in your applications. As developers, we write software in order to automate processes that people already perform with real world things. Your code will represent those people and things as objects.
 
 ## Getting Started
 
@@ -201,18 +201,6 @@ We can pause our code at any time to watch what is happening line by line and ch
 
 In your code, add the word `debugger` within the `eat()` method on the `rufusTheDog` object. When the program is run (by resfreshing your browser) the execution of your code will pause on that line and you can check each variable and step through your code line by line. Try it out!
 
-
-## Videos to Watch
-
-1. [What's an Object in JavaScript?](https://www.youtube.com/watch?v=8iXoWC9XcU8)
-1. [Objects and Prototypes In-depth 02 - Objects Basics](https://www.youtube.com/watch?v=yHkPHteghSc&index=2&list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u)
-1. [Objects and Prototypes In-depth 03 - Creating Objects](https://www.youtube.com/watch?v=25wlojU2mHg&index=3&list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u)
-1. [Object Keys](https://www.youtube.com/watch?v=cEVnlKgySsg)
-1. [Javascript - How to Access Javascript Object Property Names Using A `for in` LOOP](https://www.youtube.com/watch?v=fDBuAnu0fvo)
-1. [Modular Javascript - Prototypal Pattern vs Classical OOP in JS](https://www.youtube.com/watch?v=doXpW5AD60Q)
-1. [Object.create - Object Creation in JavaScript P6 - FunFunFunction #57](https://www.youtube.com/watch?v=CDFN1VatiJA)
-
-## Practice: Represent your Pet
 
 Create an object that represents your pet.
 
